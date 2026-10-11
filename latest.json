@@ -1,0 +1,7 @@
+{
+  "version": "1.5",
+  "notes": "Test update: harmless text file only",
+  "file": "update-1.5.tar.gz",
+  "sha256": "1aaf73f3f5d80fa07fdd64a86bb4a0e16eb69db3a5dc641494bb661eae696bec",
+  "sig": "update-1.5.sig"
+}
